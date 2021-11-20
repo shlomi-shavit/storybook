@@ -1,0 +1,19 @@
+.input {
+    padding-left: 10px;
+    border-radius: 10px;
+    border: solid 1px #cdcdcd;
+    margin-right: 10px;
+
+    &.small {
+        height: 30px;
+        font-size: 12px;
+    }
+    &.medium {
+        height: 40px;
+        font-size: 15px;
+    }
+    &.large {
+        height: 50px;
+        font-size: 17px;
+    }
+}
